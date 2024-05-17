@@ -25,7 +25,7 @@ https://recursionist.io/dashboard/roadmap/backend
 ## マイルストーン
 - 2024/05/17〜2024/06/09
     - CS初級〜OOP
-    -  
+
 - 2024/06/10〜2024/06/30
     - DB
     - Software工学
