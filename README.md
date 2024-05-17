@@ -8,7 +8,7 @@ https://recursionist.io/dashboard/roadmap/backend
  - CS初級
  - CS中級
    - BE開発1
-   - Git（Udemy）
+   - Docker, Git（Udemy）
    - HTML/CSS/Bootstrap, JavaScript/PHP（ドットインストール）
    - FE開発1
    - BE開発2
