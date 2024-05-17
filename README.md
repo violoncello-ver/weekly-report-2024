@@ -4,7 +4,7 @@
 ## 目標
 アクティブラーニングと分散学習を意識した学習を継続し、Recursionのバックエンドを完了する。
 https://recursionist.io/dashboard/roadmap/backend
- - 言語：Python,　Java, JavaScript, PHP
+ - 言語：Python, Java, JavaScript, PHP
  - CS初級
  - CS中級
    - BE開発1
