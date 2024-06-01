@@ -23,13 +23,5 @@ https://recursionist.io/dashboard/roadmap/backend
  - BEフレームワーク
 
 ## マイルストーン
-- 2024/05/17〜2024/06/09
-    - CS初級〜OOP
-
-- 2024/06/10〜2024/06/30
-    - DB
-    - Software工学
-    - BE開発3
-    - BE開発4
-    - BE開発5
-    - BEフレームワーク
+- 2024/06/01〜2024/06/30
+    - CS初級〜中級
